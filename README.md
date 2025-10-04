@@ -6,7 +6,7 @@ On the financial and claims side, the dataset includes claim amount (total cost 
 Overall, this dataset offers a comprehensive view of customers, vehicles, and claims. It can be used to build Power BI dashboards for claims analysis, customer segmentation, risk profiling, and premium optimization. Insights derived from the data can help insurance companies design fairer pricing models, identify high-risk segments, detect potential fraud, and improve customer targeting strategies.
 
 ### MATERIALS TO DO THIS PROJECT: ### 
-1. Excel Link:
+1. Dataset Excel Link:
 https://srmist-my.sharepoint.com/:x:/r/personal/gp6066_srmist_edu_in/_layouts/15/doc2.aspx?sourcedoc=%7BD712891C-6F99-407B-BF10-67546B156414%7D&file=insurance_policies_data%201.xlsx&action=default&mobileredirect=true&wdOrigin=SEARCHENGINE.GOOGLE%2CAPPHOME-WEB.BANNER.UPLOAD&wdPreviousSession=720632dc-2586-4a5c-a0d3-527590652469&wdPreviousSessionSrc=AppHomeWeb&ct=1759615587569
 2. Domain Document Link: 
 3. Business Requriements Document Link:
