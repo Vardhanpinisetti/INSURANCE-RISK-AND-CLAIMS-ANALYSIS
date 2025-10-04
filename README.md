@@ -6,7 +6,8 @@ On the financial and claims side, the dataset includes claim amount (total cost 
 Overall, this dataset offers a comprehensive view of customers, vehicles, and claims. It can be used to build Power BI dashboards for claims analysis, customer segmentation, risk profiling, and premium optimization. Insights derived from the data can help insurance companies design fairer pricing models, identify high-risk segments, detect potential fraud, and improve customer targeting strategies.
 
 ### MATERIALS TO DO THIS PROJECT: ### 
-1. Excel Link: https://srmist-my.sharepoint.com/:x:/r/personal/gp6066_srmist_edu_in/_layouts/15/doc2.aspx?sourcedoc=%7BD712891C-6F99-407B-BF10-67546B156414%7D&file=insurance_policies_data%201.xlsx&action=default&mobileredirect=true&wdOrigin=SEARCHENGINE.GOOGLE%2CAPPHOME-WEB.BANNER.UPLOAD&wdPreviousSession=720632dc-2586-4a5c-a0d3-527590652469&wdPreviousSessionSrc=AppHomeWeb&ct=1759615587569
+1. Excel Link:
+https://srmist-my.sharepoint.com/:x:/r/personal/gp6066_srmist_edu_in/_layouts/15/doc2.aspx?sourcedoc=%7BD712891C-6F99-407B-BF10-67546B156414%7D&file=insurance_policies_data%201.xlsx&action=default&mobileredirect=true&wdOrigin=SEARCHENGINE.GOOGLE%2CAPPHOME-WEB.BANNER.UPLOAD&wdPreviousSession=720632dc-2586-4a5c-a0d3-527590652469&wdPreviousSessionSrc=AppHomeWeb&ct=1759615587569
 2. Domain Document Link: 
 3. Business Requriements Document Link:
 
@@ -168,17 +169,22 @@ An insurance company is looking to better understand its policyholder base and c
 The company requires a centralized interactive dashboard in Power BI that can provide a clear overview of:
 
 ### KPI’s Requirements: ###
-1. Total Policies – to measure the size of the active customer base. 
+1. Total Policies – to measure the size of the active customer base.
+   
 ![Total Policies](https://github.com/user-attachments/assets/71a87aef-1e6b-477d-ae69-75c9c9d9fd5c)
 
-2. Total Claim Amount – to track the overall financial impact of claims.
+3. Total Claim Amount – to track the overall financial impact of claims.
+   
 ![Total Claim Amount](https://github.com/user-attachments/assets/c28e4a06-3108-4502-b68b-7b7da7ce9f54)
 
-3. Claim Frequency – to analyse how often claims are being made. 
-4. Average Claim Amount – to assess claim severity and potential risk exposure. 
+4. Claim Frequency – to analyse how often claims are being made.
+
+5. Average Claim Amount – to assess claim severity and potential risk exposure.
+   
 ![Avg Claim Amount](https://github.com/user-attachments/assets/aad1b7e0-d071-43c8-be0b-7cefbca90952)
 
-5. Gender-wise Total Policies – to understand customer distribution across genders for better segmentation and policy targeting.
+6. Gender-wise Total Policies – to understand customer distribution across genders for better segmentation and policy targeting.
+   
 ![Gender-wise Total Policies ](https://github.com/user-attachments/assets/75d43a49-9c58-4d20-8b73-dc68c3b25858)
     
 
@@ -193,27 +199,35 @@ These measures provide the foundation to compare, filter, and segment the data e
 
 ### Visualization Requirements: ###
 1. By Car Use (Donut Chart) – To analyse policy distribution and claim amounts based on how cars are being used (e.g., personal, commercial).
+   
 ![Total Claim Amount by Car Use](https://github.com/user-attachments/assets/af959791-2936-49f6-b200-0bc46043d259)
 
 2. By Car Make (Bar Chart) – To identify which car brands have higher policies and claims, highlighting brand-based risks.
+   
 ![By Car Make (Bar Chart)](https://github.com/user-attachments/assets/7740dc84-57dc-42ac-aa36-fad5e6565bc8)
 
 3. By Coverage Zone (Donut Chart) – To evaluate policies and claims by geographic zones, useful for regional risk analysis.
+   
 ![By Coverage Zone (Donut Chart)](https://github.com/user-attachments/assets/67c1afa7-e396-4a13-8a71-dfbb670c3aaf)
 
 4. By Age Group (Frequency Chart/Histogram) – To assess policyholders’ age distribution and identify which age brackets file more claims.
+   
 ![By Age Group (Frequency Chart or Histogram)](https://github.com/user-attachments/assets/26e5c3e8-e134-423e-a59e-d7fa90a390bb)
 
 5. By Car Year (Area Chart) – To analyse how the car’s age (year of manufacture - from 1990's) impacts policy counts and claim amounts.
+
 ![By Car Year (Area Chart)](https://github.com/user-attachments/assets/30bf0416-b0bf-44ec-9f04-a88c2579029f)
 
 6. By Kids Driving (Ribbon Chart) – To compare the impact of young drivers in households on policy count and claim amounts.
+
 ![By Kids Driving (Ribbon Chart)](https://github.com/user-attachments/assets/70c253b4-af24-4bc5-ace2-40d0681b3589)
 
 7. By Education (Pie Chart) – To understand how education levels correlate with insurance policy adoption and claims.
+
 ![By Education (Pie Chart)](https://github.com/user-attachments/assets/bcca76fe-2f96-4a24-a50e-4dbad7cc5fad)
 
 8. By Education & Marital Status (Matrix Heat Grid) – To explore the combined effect of education and marital status on policies and claims, highlighting customer profiles.
+
 <img width="606" height="329" alt="By Education   Marital Status (Matrix Heat Grid)" src="https://github.com/user-attachments/assets/1830370b-c2ca-4e65-9d5c-8c6dd6469647" />
 
 
@@ -236,5 +250,6 @@ By integrating analytics and visualization, this solution transforms raw data in
 
 
 ### Overall Dashboard Image: ###
+
 ![Overall Dashboard Image](https://github.com/user-attachments/assets/28254118-0d35-4015-99d9-5361713937d6)
 
