@@ -8,8 +8,12 @@ Overall, this dataset offers a comprehensive view of customers, vehicles, and cl
 ### MATERIALS TO DO THIS PROJECT: ### 
 1. Dataset Excel Link:
 https://srmist-my.sharepoint.com/:x:/r/personal/gp6066_srmist_edu_in/_layouts/15/doc2.aspx?sourcedoc=%7BD712891C-6F99-407B-BF10-67546B156414%7D&file=insurance_policies_data%201.xlsx&action=default&mobileredirect=true&wdOrigin=SEARCHENGINE.GOOGLE%2CAPPHOME-WEB.BANNER.UPLOAD&wdPreviousSession=720632dc-2586-4a5c-a0d3-527590652469&wdPreviousSessionSrc=AppHomeWeb&ct=1759615587569
-2. Domain Document Link: 
+
+2. Domain Document Link:
+   https://docs.google.com/document/d/1MpExbPtLyzFSEQK55sMKDmpzYmUElDKG7UzF58ocesQ/edit?tab=t.0
+
 3. Business Requriements Document Link:
+   https://docs.google.com/document/d/14mjJzLSJYxS6h741Mwtg8R1VRZgdWlCeYlOdQmMS8SM/edit?tab=t.0
 
 ### 1. ID ###
 Definition: A unique identifier assigned to each policyholder or insurance record.
